@@ -60,6 +60,9 @@ Der Spielstart
 * 900 Währungseinheiten werden aus der Bank in die Firmenkassen gelegt
 * Jeder Spieler hat zu beginn eine Startfirma, die zugelost wird. Er bekommt 3 Anteile. Alle anderen Firmen liegen brach, bis sie zum Global Player werden, indem jemand investiert
 
+Territorien
+===========
+* Handelsrouten stellen Verbindung zwischen zwei Ländern her
 
 Siegbedingungen
 ===============
